@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../mongo"
+		},
+		{
+			"path": "../txt-parser"
+		},
+		{
+			"path": "../docx-parser"
+		},
+		{
+			"path": "../web-scrapper"
+		},
+		{
+			"path": "../nodejs"
+		},
+		{
+			"path": "../devnagri-main"
+		},
+		{
+			"path": "../devnagri-web"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../vue-modal-2-main"
+		},
+		{
+			"path": "../lorry"
+		},
+		{
+			"path": "../kutumbh"
+		},
+		{
+			"path": "../food"
+		}
+	]
+}
